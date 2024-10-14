@@ -1,6 +1,5 @@
 # PyDepDetective
 
-[![Python package](https://github.com/Felixdiamond/PyDepDetective/actions/workflows/python-package.yml/badge.svg)](https://github.com/Felixdiamond/PyDepDetective/actions/workflows/python-package.yml)
 [![PyPI version](https://badge.fury.io/py/pydepdetective.svg)](https://badge.fury.io/py/pydepdetective)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
