@@ -40,6 +40,7 @@ def map_import_to_package(import_name):
         'sklearn': 'scikit-learn',
         'bs4': 'beautifulsoup4',
         'yaml': 'pyyaml',
+        'speech_recognition': 'SpeechRecognition'
     }
     return mappings.get(import_name, import_name)
 
