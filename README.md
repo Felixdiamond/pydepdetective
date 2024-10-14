@@ -1,5 +1,9 @@
 # PyDepDetective
 
+[![Python package](https://github.com/Felixdiamond/PyDepDetective/actions/workflows/python-package.yml/badge.svg)](https://github.com/Felixdiamond/PyDepDetective/actions/workflows/python-package.yml)
+[![PyPI version](https://badge.fury.io/py/pydepdetective.svg)](https://badge.fury.io/py/pydepdetective)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Ever hated starting a new python project (or an existing one) and having to install dependencies one by one?
 
 PyDepDetective is a Python tool that automatically detects and installs dependencies for a given Python file. It simplifies the process of setting up project dependencies by analyzing import statements, comments, and even references to `requirements.txt` files.
